@@ -1,0 +1,2 @@
+pyserial==3.4
+picamera==1.13
