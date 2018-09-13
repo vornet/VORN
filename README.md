@@ -3,7 +3,7 @@ Versatile Objective-based Robotic Navigator
 
 ![Alt text](/VORN-in-action.gif?raw=true "VORN in action!")
 
-VORN is a passion project of mine.  I love autonomous vehicles and always wanted to build one.  Finially have the time and available hardware to build one.
+VORN is a passion project of mine.  I love autonomous vehicles and always wanted to build one.  Finially have the time and available hardware to actually do it.
 
 The goal of VORN is to look for an object, grab it, and bring it back to me.  As part of the process, I'll be building the software in a very modular way so that each layer can be re-purpose later.  Essentially, I'm building a framework.  More on this later.
 
