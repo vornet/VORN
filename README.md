@@ -1,7 +1,7 @@
 # VORN 
 Versatile Objective-based Robotic Navigator 
 
-![Alt text](/VORN-in-action.jpg?raw=true "VORN in action!")
+![Alt text](/VORN-in-action.gif?raw=true "VORN in action!")
 
 VORN is a passion project of mine.  I love autonomous vehicles and always wanted to build one.  Finially have the time and available hardware to build one.
 
